@@ -25,4 +25,4 @@ The goal of this exercise is to calculate and plot seasonal weather anomalies to
 
 The subplot at the end looks like the below picture
 
-![Seasonal anomaly plot](pandas_matplotlib/images/final_plot.png)
+![Seasonal anomaly plot](exercise/images/final_plot.jpeg)
