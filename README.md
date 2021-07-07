@@ -33,5 +33,14 @@ The [data](exercise-1/data/2315676.txt) used for the exercise-1 is the daily tem
 As shown below, there are a total of 6 columns in the data. Here the `TAVG`, `TMAX`, `TMIN` are in degree fahranheit. 
 
 ```
-STATION           STATION_NAME                                       DATE     TAVG     TMAX     TMIN      
+STATION           STATION_NAME          DATE     TAVG     TMAX     TMIN      
 ```
+
+A description of the columns are given below:
+
+- `STATION` : this is the value of staion ID where the daily temperatures are recorded.
+-`STATION_NAME` : this is the name of the station from where the daily temperatures are recorded.
+- `DATE` : the timestamp. the timestamp is in `YEARMODA` format in this data. It means the first four numbers indicate the YEAR, the next two digits indicate the month and the last two digits indicate the day. For example `19080101` indicates 1908 Year, January month (01) and 1st day of the month (01).
+- `TAVG` : this indicates the average daily temperature in fahranheit
+- `TMAX` : this indicates the maximum daily temperature in fahranheit
+- `TMIN` : this indicates the minimum daily temperature in fahranheit
