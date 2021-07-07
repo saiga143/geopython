@@ -31,6 +31,7 @@ The subplot at the end looks like the below picture
 The [data](exercise-1/data/2315676.txt) used for the exercise-1 is the daily temperature data of Sodankyla weather station of Northern Finland. It contains daily temperature data from January 1908 till October 2020.
 
 As shown below, there are a total of 6 columns in the data. Here the `TAVG`, `TMAX`, `TMIN` are in degree fahranheit. 
-'''
+
+```
 STATION           STATION_NAME                                       DATE     TAVG     TMAX     TMIN      
-'''
+```
