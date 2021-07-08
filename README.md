@@ -60,7 +60,7 @@ The **missing data** are labelled as `-9999` in the data.
 
 1. Reading, cleaning and preparing the data.
 
-2. Preparing the temperature values and converting them to celsius.
+2. Convering temperatures from fahranheit to celsius
 
 3. Calculating seasonal average temperature for each season in every year from **1909 till 2019**
 
