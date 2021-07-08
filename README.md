@@ -3,9 +3,9 @@ A mini introduction to the programming basics and scientific data analysis using
 
 # Pre-requisites for these exercises
 
-1. Knowledge of python
-2. Knowledge of pandas
-3. Knowledge of matplotlib
+1. Basic Knowledge of python
+2. Basic Knowledge of pandas
+3. Basic Knowledge of matplotlib
 
 # Exercise-1
 The `pandas` and `matplotlib` folder contains the required data, produced outputs and a jupyter notebook file with the code explained in detail how the different steps are performed which include:
@@ -24,7 +24,7 @@ The `pandas` and `matplotlib` folder contains the required data, produced output
     3. Basic plot-formatting
     4. Saving the plots 
 
-## Task for exercise-1
+## Goal for exercise-1
 The goal of this exercise is to calculate and plot seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. The data used for this exercise is from the Sodankyla weather station of Finland.
 
 ### What are temperature anamolies?
@@ -68,7 +68,6 @@ The **missing data** are labelled as `-9999` in the data.
     Winter 1909   Spring 1909   Summer 1909   Autumn 1909
     Winter 1910   Spring 1910   Summer 1910   Autumn 1910
     Winter 1911   Spring 1911   Summer 1911   Autumn 1911
-    .
     .
     .
     ```
