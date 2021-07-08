@@ -1,6 +1,12 @@
 # About this repository
 A mini introduction to the programming basics and scientific data analysis using python. The python libraries pandas and matplotlib will be used for reading, maupulating, analyzing and plotting data. It follows an example case where we go through different steps of processing involving different functions of python, pandas and matplotlib libraries/modules.
 
+# Pre-requisites for these exercises
+
+1. Knowledge of python
+2. Knowledge of pandas
+3. Knowledge of matplotlib
+
 # Exercise-1
 The `pandas` and `matplotlib` folder contains the required data, produced outputs and a jupyter notebook file with the code explained in detail how the different steps are performed which include:
 
